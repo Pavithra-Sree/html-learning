@@ -1,3 +1,6 @@
+.dropdown{
+    display: inline-block;
+}
 .dropdown button{
     padding:10px 15px;
     background-color: rgb(140, 198, 243);

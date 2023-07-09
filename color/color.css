@@ -1,0 +1,28 @@
+body{
+    background-image: url(building.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+h2{
+   color:navy;
+   display: block;
+   border-style: dashed;
+  
+}
+p{
+    color: cornsilk;
+}
+#p1{
+color: salmon;
+}
+#p2{
+color: cadetblue;
+}
+#p3{
+color: cornflowerblue;
+}
+#p4{
+color: violet;
+} 

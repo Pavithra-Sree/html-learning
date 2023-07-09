@@ -1,0 +1,27 @@
+h2::first-letter{
+font-size: 2em;
+}
+p::first-line{
+ background-color: lightgreen;
+}
+ p::selection{
+    background-color: black;
+    color: white;
+ }
+
+ /* #fruit-container li::before{
+     content: "✔";
+ } */
+ #Apple::after{
+    content:"🍏" ;
+ }
+ #Orange::after{
+    content: "🍊";
+ }
+ #water::after{
+    content: "🍉";
+ }
+ #fruit-container li::marker{
+    content: "🌿 ";
+ }
+ 
